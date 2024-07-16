@@ -13,10 +13,10 @@
 <br>
 <div align="center"> 
    <p align="center"> 
- <img src="https://telegra.ph/file/d41699058146e09253fd7.jpg" alt="GIF" width="400" height="400"/> 
+ <img src="https://telegra.ph/file/d41699058146e09253fd7.jpg" alt="GIF" width="800" height="800"/> 
  </p> 
  
-  MY INSTAGRAM PAGE <a href="https://github.com/Loki-Xer/Jarvis-md">ADITH</a>
+  MY INSTAGRAM PAGE <a href="https://www.instagram.com/addhh_iii">ADITH</a>
      <br> 
      <br>  
  </p> 
