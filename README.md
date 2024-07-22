@@ -17,7 +17,7 @@ ANY EDITING WORK CONTACT ME...
 <br>
 <div align="center"> 
    <p align="center"> 
- <img src="https://telegra.ph/file/838f08f86a0e093faf572.jpg" alt="GIF" width="500" height="500"/> 
+ <img src="https://telegra.ph/file/838f08" alt="GIF" width="500" height="500"/> 
  </p> 
  
   MY INSTAGRAM PAGE <a href="https://www.instagram.com/addhh_iii">ADITH</a>
