@@ -17,7 +17,7 @@ ANY EDITING WORK CONTACT ME...
 <br>
 <div align="center"> 
    <p align="center"> 
- <img src="https://i.imgur.com/S7PlOof.jpeg" alt="GIF" width="500" height="500"/> 
+ <img src="https://i.imgur.com/S7PlOof.jpeg" alt="GIF" width="200" height="200"/> 
  </p> 
  
   INSTAGRAM  <a href="https://www.instagram.com/addhh_iii">ADITH</a>
