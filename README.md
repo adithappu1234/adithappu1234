@@ -4,7 +4,7 @@
 
 
 
-ANY EDITING WORK CONTACT ME...
+ANY EDITING WORK CONTACT...
 
 
 
@@ -17,7 +17,7 @@ ANY EDITING WORK CONTACT ME...
 <br>
 <div align="center"> 
    <p align="center"> 
- <img src="https://i.imgur.com/S7PlOof.jpeg" alt="GIF" width="200" height="200"/> 
+ <img src="" alt="GIF" width="200" height="200"/> 
  </p> 
  
   INSTAGRAM  <a href="https://www.instagram.com/addhh_iii">ADITH</a>
