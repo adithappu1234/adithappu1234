@@ -4,12 +4,6 @@
 
 
 
-ANY EDITING WORK CONTACT...
-
-
-
-
-
 
 <p align="center">
   <a href="https://github.com/Loki-Xer/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Red&color=red&size=25&center=true&vCenter=true&width=1000&height=500&lines=+THANK+YOU+FOR+VISITING+MY+GIT+HUB+😊;I+Am+𝘼𝘿𝙄𝙏𝙃+You+Can+Call+Me+𝘼𝘿𝙃𝙄+<3"></a>
@@ -44,4 +38,12 @@ CONTACT WHATSAPP  <a href="https://wa.me/918075116840">ī.am/ADITH</a>
  </p> 
   
 <br>
+
+𝗠𝗬 𝗚𝗜𝗧 𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗨𝗦
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guru322/Guru322/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guru322/Guru322/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Guru322/Guru322/output/github-contribution-grid-snake.svg">
+</picture>
   
