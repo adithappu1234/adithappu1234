@@ -26,6 +26,10 @@ ANY EDITING WORK CONTACT...
     <img alt=Coding height="600" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> 
     </p>
 
+    
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=3F00FF&center=true&width=800&height=100&lines=𝗜𝗧𝗦%20𝗔𝗗𝗛𝗜;%20𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗗%20𝗕𝗬%20𝗔𝗗𝗜𝗧𝗛)
+<p align=
+
  
   INSTAGRAM  <a href="https://www.instagram.com/addhh_iii">ADITH</a>
      <br> 
